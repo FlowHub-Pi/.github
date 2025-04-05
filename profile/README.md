@@ -6,5 +6,5 @@
 - [Vallentini Gabrielli da Silva](https://github.com/Vallentini)
 
 ## Links do projeto: 
--[BackEnd](https://github.com/FlowHub-Pi/flowhub-backend)
--[FrontEnd](https://github.com/FlowHub-Pi/flowhub-frontend)
+- [BackEnd](https://github.com/FlowHub-Pi/flowhub-backend)
+- [FrontEnd](https://github.com/FlowHub-Pi/flowhub-frontend)
