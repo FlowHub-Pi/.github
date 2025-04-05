@@ -2,8 +2,7 @@
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
-## Descrição do projeto:
-> 
+Professor: [Marco André Mendes](https://github.com/marrcandre)
 
 ### Equipe:
 - [Gustavo Correa Krüger](https://github.com/GustavoCKruger)
@@ -14,6 +13,9 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 ### Links do projeto: 
 - [BackEnd](https://github.com/FlowHub-Pi/flowhub-backend)
 - [FrontEnd](https://github.com/FlowHub-Pi/flowhub-frontend)
+
+## Descrição do projeto:
+>
 
 ## Situação Problema(cenário):
 >
