@@ -25,4 +25,5 @@ Professor: [Marco André Mendes](https://github.com/marrcandre)
 > A FlowHub, então, viu a oportunidade de criar uma plataforma que hospeda sites personalizados para negócios gastronômicos, otimizando o dia a dia desses empreendedores. Um sistema integrado resolveria os problemas operacionais da cafeteria e atenderia às novas demandas do mercado.
 
 ## Descrição da proposta:
->
+> O  FlowHub representa a ideia de um sistema integrado e eficiente, onde todos os processos acontecem de forma fluida e centralizada. O termo "Flow" transmite a ideia de um fluxo contínuo e dinâmico, enquanto "Hub" simboliza um ponto central de controle e gestão. Esse nome, moderno e de fácil memorização, é ideal para um sistema digital completo de gerenciamento de estabelecimentos.
+Nosso objetivo é criar uma solução inovadora e simplificada para a administração de estabelecimentos, abrangendo diversas áreas do processo, desde o cadastro de produtos até o fechamento da conta. O sistema contará com funcionalidades para pedidos digitais, tanto para entrega quanto para consumo no local, otimizando a gestão de forma ágil e prática.
